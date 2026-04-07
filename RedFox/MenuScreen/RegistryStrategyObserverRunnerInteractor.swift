@@ -24,9 +24,9 @@ ParserCoordinatorDelegateResolver: View {
                 
                 VStack(spacing: height*0.05) {
                     
-                    Image("logo_icon")
-                        .resizable()
-                        .frame(width: width*0.5, height: width*0.5)
+//                    Image("icon")
+//                        .resizable()
+//                        .frame(width: width*0.5, height: width*0.5)
                     
                     Button {
                         showSubMenu = true
